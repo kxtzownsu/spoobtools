@@ -1,9 +1,9 @@
-<p align=center><img src="https://raw.githubusercontent.com/T3M1N4L/rigtools-updated-ui/refs/heads/main/rigtools-bounce.gif" height="170vh"/> <img alt="rigtools" src="https://github.com/user-attachments/assets/f491a85e-9fd7-4fe4-979f-1fa70a1b630e" height="170vh"></p>
+<p align=center><img src="https://raw.githubusercontent.com/T3M1N4L/rigtools-updated-ui/refs/heads/main/rigtools-bounce.gif" height="170vh"/> <img alt="rigtools" src="https://github.com/user-attachments/assets/f491a85e-9fd7-4fe4-979f-1fa70a1b630e"  PRAHITS RIGTOOOLS height="170vh"></p>
 
 # <p align=center><code>Extension/Devtools code execution</code></p> 
 ## How to use
 ```sh
-$ git clone https://github.com/fwsmasher/rigtools 
+$ git clone https://github.com/T3M1N4L/rigtools-updated-ui 
 $ cd rigtools
 $ npm i
 # Create a file named `server_config.json`
